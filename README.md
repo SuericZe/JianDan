@@ -67,6 +67,3 @@
 - [GreenDao](http://greendao-orm.com/)
 - [Loading](https://github.com/yankai-victor/Loading)
 - [LeakCanary](https://github.com/square/leakcanary)
-
-##这个是测试更改
-- [TestBD](https://www.baidu.com)
